@@ -1,0 +1,256 @@
+﻿Longitude,Latitude,id,Name,Counsil,Material,Lateral Loading system,Code level,Floors,Lateral Coefficiency,Intensity,Typology,Area
+23.0444658,40.6299943,2,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDL,1,None,PGA,MUR_LWAL-DNO_H1,172
+23.045,40.63057292,3,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,5,None,SA(0.6),CR_LDUAL-DUL_H5,2765
+23.04516653,40.63040439,4,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,5,None,SA(0.6),CR_LDUAL-DUL_H5,725
+23.04562546,40.63196607,5,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,416
+23.04580557,40.6317938,6,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.3),MUR_LWAL-DNO_H2,975
+23.04605477,40.63155225,7,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,3212
+23.04639219,40.6311946,8,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,3620
+23.04676167,40.63085567,9,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,1612
+23.04711635,40.63052096,10,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,3560
+23.0457624,40.63196747,11,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,168
+23.04592894,40.63180129,12,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,78
+23.04598754,40.63180129,13,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,44
+23.04603689,40.63125358,14,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,4,None,SA(0.6),MUR_LWAL-DNO_H4,3450
+23.04562052,40.6309727,15,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,4,None,SA(0.6),MUR_LWAL-DNO_H4,816
+23.04579016,40.63114357,16,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,5,None,SA(0.6),CR_LDUAL-DUL_H5,412.5
+23.04596287,40.63133551,17,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,1,None,PGA,CR_LDUAL-DUL_H1,81
+23.04638232,40.63090482,18,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,4,None,SA(0.6),MUR_LWAL-DNO_H4,3450
+23.04596904,40.63062863,19,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,4,None,SA(0.6),MUR_LWAL-DNO_H4,816
+23.04615717,40.63080652,20,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,5,None,SA(0.6),CR_LDUAL-DUL_H5,412.5
+23.04674933,40.63058416,21,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,4,None,SA(0.6),MUR_LWAL-DNO_H4,2337.5
+23.04636381,40.63031966,22,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,4,None,SA(0.6),MUR_LWAL-DNO_H4,586
+23.04651493,40.63047648,23,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,5,None,SA(0.6),CR_LDUAL-DUL_H5,412.5
+23.04663522,40.63064267,24,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,1,None,PGA,CR_LDUAL-DUL_H1,81
+23.04707935,40.63022603,25,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,4,None,SA(0.6),MUR_LWAL-DNO_H4,2337.5
+23.04682027,40.6300341,26,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,4,None,SA(0.6),CR_LDUAL-DUL_H4,616
+23.04690663,40.63016049,27,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,5,None,SA(0.6),MUR_LWAL-DNO_H5,412.5
+23.04676476,40.63007623,28,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,5,None,SA(0.6),MUR_LWAL-DNO_H5,605
+23.04651493,40.62988898,29,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,4,None,SA(0.6),CR_LDUAL-DUL_H4,816
+23.0446891,40.63189491,30,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,1806
+23.04429741,40.63212195,31,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,10,SA(0.6),CR_LFINF-CDL-10_H2,450
+23.04465209,40.63212195,32,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,165
+23.04371449,40.63238644,33,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,3000
+23.04349552,40.63251283,34,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,3,None,PGA,CR_LDUAL-DUL_H3,1080
+23.04316859,40.63189023,35,Papanikolaou,Thessalonikis,MCF: confined masonry,LWAL: load bearing wall,CDN,2,None,PGA,MCF_LWAL-DUH_H2,1900
+23.04372066,40.63150637,36,Papanikolaou,Thessalonikis,MCF: confined masonry,LWAL: load bearing wall,CDN,2,None,PGA,MCF_LWAL-DUH_H2,1910
+23.04418329,40.63116698,37,Papanikolaou,Thessalonikis,MCF: confined masonry,LWAL: load bearing wall,CDN,2,None,PGA,MCF_LWAL-DUH_H2,1550
+23.04348626,40.63174277,38,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,2,None,PGA,CR_LDUAL-DUL_H2,430
+23.04400749,40.63135656,39,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,2,None,PGA,CR_LDUAL-DUL_H2,430
+23.04319018,40.63201428,40,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,140
+23.04340607,40.63185746,41,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,46
+23.04366823,40.63169362,42,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,59
+23.04380702,40.63159297,43,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,65
+23.04394581,40.63149467,44,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,63
+23.04429124,40.63123251,45,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,152
+23.04210763,40.63171,46,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,4,None,SA(0.6),CR_LDUAL-DUL_H4,3792
+23.04249316,40.63185512,47,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,4,None,SA(0.6),CR_LDUAL-DUL_H4,2688
+23.04229268,40.6321079,48,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,4,None,SA(0.6),CR_LDUAL-DUL_H4,3268
+23.04192258,40.63195108,49,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,4,None,SA(0.6),CR_LDUAL-DUL_H4,4292
+23.04189791,40.63275625,50,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,1755
+23.04191333,40.63284052,51,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,735
+23.04213231,40.63268135,52,Papanikolaou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,300
+23.04687579,40.63114825,54,Papanikolaou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,5040
+23.04113166,40.63256611,61,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,700
+23.04133109,40.63242384,62,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,600
+23.04345698,40.63124636,65,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,1917
+23.04369629,40.6310829,66,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,678
+23.04383191,40.63098301,67,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,1239
+23.0447864,40.6315494,1053,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,DUH,3,None,PGA,CR_LDUAL-DUH_H3,738
+23.04371449,40.63238644,1063,Papanikolaou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,DUL,2,None,PGA,CR_LDUAL-DUL_H2,1450
+23.0454571,40.6284151,1068,Papanikolaou,Thessalonikis,S: steel,LWAL: load bearing wall,DUH,1,None,PGA,S_LWAL-DUH_H1,288
+22.96276158,40.61389241,68,Ippokrateio,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,7,10,SA(1.0),CR_LFINF-CDL-10_H6,6420
+22.96273419,40.61323594,69,Ippokrateio,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,7,10,SA(1.0),CR_LFINF-CDL-10_H6,3150
+22.96241932,40.61354709,70,Ippokrateio,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,7,10,SA(1.0),CR_LFINF-CDL-10_H6,6560
+22.96278757,40.61356682,71,Ippokrateio,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,7,10,SA(1.0),CR_LFINF-CDL-10_H6,4950
+22.96246876,40.61271461,72,Ippokrateio,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.3),MUR_LWAL-DNO_H2,3400
+22.96249645,40.61307916,73,Ippokrateio,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,1040
+22.96273488,40.61238805,74,Ippokrateio,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,1040
+22.96255952,40.61234952,75,Ippokrateio,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.3),MUR_LWAL-DNO_H2,600
+22.96241646,40.61232149,76,Ippokrateio,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.3),MUR_LWAL-DNO_H2,600
+22.96214558,40.61301334,77,Ippokrateio,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.3),MUR_LWAL-DNO_H2,560
+22.96245373,40.61202332,78,Ippokrateio,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,7,None,SA(0.6),CR_LDUAL-DUL_H7,3500
+22.96279383,40.61210468,79,Ippokrateio,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,7,None,SA(0.6),CR_LDUAL-DUL_H7,3150
+22.96160704,40.61312415,80,Ippokrateio,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,7,10,SA(1.0),CR_LFINF-CDL-10_H6,6000
+22.96145097,40.61336239,81,Ippokrateio,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,10,SA(0.6),CR_LFINF-CDL-10_H2,580
+22.96173554,40.61290613,82,Ippokrateio,Thessalonikis,S: steel,LFINF: infilled frame,CDL,1,None,PGA,S_LFINF-DUM_H1,192
+22.96182233,40.6129268,83,Ippokrateio,Thessalonikis,S: steel,LFINF: infilled frame,CDL,1,None,PGA,S_LFINF-DUM_H1,192
+22.96152648,40.61286619,84,Ippokrateio,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR-ADO_LWAL-DNO_H1,295
+22.96130448,40.61331898,85,Ippokrateio,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,1100
+22.96246088,40.61377544,86,Ippokrateio,Thessalonikis,S: steel,LFINF: infilled frame,CDL,1,None,PGA,S_LFINF-DUM_H1,320
+22.96171911,40.67637209,87,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,637
+22.9617551,40.67617225,88,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,600
+22.96181838,40.67599316,89,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,550
+22.96188166,40.67581409,90,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,550
+22.96194599,40.67562032,91,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,540
+22.96203226,40.67641946,92,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,1470
+22.96208943,40.67622539,93,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,1808
+22.96214588,40.67604113,94,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,1808
+22.96220951,40.67585715,95,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,1640
+22.96226526,40.67568266,96,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,5,10,SA(1.0),CR_LFINF-CDM-10_H5,1388
+22.96256137,40.67556726,97,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,5,10,SA(1.0),CR_LFINF-CDM-10_H5,2851
+22.96271496,40.675333,98,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,5,10,SA(1.0),CR_LFINF-CDM-10_H5,2645
+22.96223695,40.67507745,99,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-10_H3,1222
+22.96226213,40.67482803,100,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-10_H3,520
+22.96260645,40.67484231,101,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-10_H3,1465
+22.96241584,40.67439241,102,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,835
+22.96272617,40.67447895,103,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,1,10,SA(0.3),CR_LFINF-CDM-10_H1,831
+22.96225203,40.6766643,104,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,1,10,SA(0.3),CR_LFINF-CDM-10_H1,540
+22.96253698,40.67650423,105,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,1288
+22.96253711,40.67630289,106,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,3160
+22.96258886,40.67608405,107,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,2259
+22.96267178,40.67583212,108,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,5,None,SA(0.6),CR_LDUAL-DUM_H5,4668
+22.96277951,40.67563524,109,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,1,10,SA(0.3),CR_LFINF-CDM-10_H1,1300
+22.96276071,40.67519738,110,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,7,None,SA(0.6),CR_LDUAL-DUM_H7,2044
+22.96280282,40.67501251,111,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,6,None,SA(0.6),CR_LDUAL-DUM_H6,2005
+22.96302977,40.67525765,112,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,6,None,SA(0.6),CR_LDUAL-DUM_H6,2268
+22.96302096,40.67508049,113,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,490
+22.96287927,40.67475049,114,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,5,None,SA(0.6),CR_LDUAL-DUM_H5,2820
+22.96304426,40.67475734,115,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,1,None,PGA,CR_LDUAL-DUM_H1,286
+22.96288941,40.67670546,116,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,864
+22.9629568,40.6763694,117,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,4084
+22.96302291,40.67615116,118,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,2392
+22.96310876,40.67595828,119,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,5,None,SA(0.6),CR_LDUAL-DUM_H5,4737
+22.96342583,40.67535266,120,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,9,None,SA(0.6),CR_LDUAL-DUM_H9,5017
+22.96330852,40.67658042,122,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,995
+22.96345598,40.67663074,123,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,1,None,PGA,CR_LDUAL-DUM_H1,247
+22.96349598,40.67647525,124,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,1,None,PGA,CR_LDUAL-DUM_H1,114
+22.96335193,40.67627776,125,Papageorgiou,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-10_H3,765
+22.96351704,40.67608326,126,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,1074
+22.96333314,40.67583991,127,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,9,None,SA(0.6),CR_LDUAL-DUM_H9,2664
+22.96336807,40.67565474,128,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,9,None,SA(0.6),CR_LDUAL-DUM_H9,3420
+22.96358785,40.67589957,129,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,9,None,SA(0.6),CR_LDUAL-DUM_H9,3250
+22.96393686,40.67594843,130,Papageorgiou,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,9,None,SA(0.6),CR_LDUAL-DUM_H9,3557
+22.95713237,40.60561752,131,Afrodision,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.3),MUR_LWAL-DNO_H2,588
+22.95688969,40.60542099,132,Afrodision,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,2,10,SA(0.6),CR_LFINF-CDN-0_H2,600
+22.95744516,40.60563389,133,Afrodision,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDH,2,None,PGA,CR_LDUAL-DUH_H2,1980
+22.95723214,40.6054865,134,Afrodision,Thessalonikis,S: steel,LFINF: infilled frame,CDN,1,None,PGA,S_LFINF-DUM_H1,100
+22.9571108,40.6054476,135,Afrodision,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,1,10,SA(0.6),CR_LFINF-CDN-0_H1,33
+22.95366994,40.59883783,139,IKA_Martiou,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,846
+22.95996717,40.61796587,140,Theageneio,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,3,None,PGA,CR_LDUAL-DUL_H3,2319
+22.95981535,40.61771421,141,Theageneio,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,12,None,SA(1.0),CR_LDUAL-DUL_H12,4978
+22.9601375,40.6176027,142,Theageneio,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,11,None,SA(0.6),CR_LDUAL-DUL_H11,6702
+22.96018045,40.61771223,143,Theageneio,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,3,10,SA(1.0),CR_LFINF-CDL-10_H3,944
+22.95987236,40.61761869,144,Theageneio,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,2,None,PGA,CR_LDUAL-DUL_H2,345
+22.93747892,40.66650015,201,Psychiatric,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,10,SA(0.6),CR_LFINF-CDL-10_H2,1140
+22.93781277,40.666429,202,Psychiatric,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,674
+22.93846668,40.66620507,204,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR_LWAL-DNO_H1,472
+22.93912886,40.66618414,205,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.6),MUR-ADO_LWAL-DNO_H2,900
+22.93899642,40.66630134,206,Psychiatric,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,380
+22.93945719,40.66693965,209,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR-ADO_LWAL-DNO_H1,215
+22.93929441,40.66694383,210,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR-ADO_LWAL-DNO_H1,270
+22.93917577,40.66717404,211,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR-ADO_LWAL-DNO_H1,140
+22.93870712,40.66768242,212,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDL,1,10,SA(1.5),Precast-CDL,430
+22.93891681,40.66764475,213,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDL,1,10,SA(1.5),Precast-CDL,430
+22.93948243,40.66755685,214,Psychiatric,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,848
+22.93922859,40.66759871,215,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,1368
+22.94039785,40.6673893,219,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR-ADO_LWAL-DNO_H1,113
+22.94078709,40.66711335,221,Psychiatric,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,44
+22.94084503,40.6670987,222,Psychiatric,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,1,None,PGA,CR_LDUAL-DUM_H1,72
+22.94024906,40.66667595,223,Psychiatric,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,10,SA(0.6),CR_LFINF-CDL-10_H2,660
+22.93976346,40.66643737,224,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.3),MUR_LWAL-DNO_H2,2050
+22.94191004,40.66582626,226,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,1,None,PGA,MUR-ADO_LWAL-DNO_H1,760
+22.94215008,40.66588277,227,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,870
+22.94167275,40.66657759,228,Psychiatric,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,4929
+22.94194315,40.66737914,229,Psychiatric,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,1711
+22.94242875,40.66729333,230,Psychiatric,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,1635
+22.94189072,40.66499331,233,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,735
+22.94209766,40.66495982,234,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,615
+22.94223285,40.66485308,235,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,735
+22.94222457,40.66510632,236,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,996
+22.94219698,40.66538677,237,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,735
+22.94235425,40.66531561,238,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,615
+22.94253359,40.66525282,239,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,735
+22.94242599,40.66494308,240,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,2,10,SA(1.5),Precast-CDM,555
+22.94253359,40.66508539,241,Psychiatric,Thessalonikis,Precast,LFINF: infilled frame,CDM,1,10,SA(1.5),Precast-CDM,370
+22.93944064,40.66732263,242,Psychiatric,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,1285
+22.93969724,40.66726194,243,Psychiatric,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,1,None,PGA,CR_LDUAL-DUM_H1,133
+22.93918956,40.66737285,244,Psychiatric,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,60
+22.97041449,40.57784914,246,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,4,10,SA(1.0),CR_LFINF-CDL-10_H4,297.6
+22.97033592,40.57783698,247,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,4,10,SA(1.0),CR_LFINF-CDL-10_H4,641
+22.96978594,40.57778504,248,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,4,10,SA(1.0),CR_LFINF-CDL-10_H4,74.4
+22.96999836,40.57779388,249,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,5,10,SA(1.0),CR_LFINF-CDL-10_H5,1787.4
+22.97001727,40.57786902,250,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,5,10,SA(1.0),CR_LFINF-CDL-10_H5,444.8
+22.97026171,40.57798175,251,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,5,10,SA(1.0),CR_LFINF-CDL-10_H5,2597.7
+22.9704334,40.57814088,252,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,3,10,SA(1.0),CR_LFINF-CDL-10_H3,582.9
+22.9705244,40.57799096,253,Agios_Pavlos,Thessalonikis,S: steel,LFINF: infilled frame,CDL,1,None,PGA,S_LFINF-DUM_H1,460.8
+22.97029854,40.57745135,259,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,1,10,SA(0.3),CR_LFINF-CDM-10_H1,191.5
+22.97009205,40.57743064,260,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDH,2,10,SA(0.6),CR_LFINF-CDH-10_H2,125.2
+22.97004641,40.57727417,261,Agios_Pavlos,Thessalonikis,S: steel,LFINF: infilled frame,CDL,1,None,PGA,S_LFINF-DUM_H1,200
+22.97012961,40.57710507,262,Agios_Pavlos,Thessalonikis,S: steel,LFINF: infilled frame,CDM,1,None,PGA,S_LFINF-DUM_H1,304
+22.97008545,40.57795099,263,Agios_Pavlos,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDH,1,None,PGA,MUR_LWAL-DNO_H1,43.2
+22.93799302,40.63744801,264,Agios_Pavlos,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR_LWAL-DNO_H3,1435.3
+22.93809317,40.63761496,265,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,6,10,SA(1.0),CR_LFINF-CDL-10_H6,2412.4
+22.93829647,40.63755624,267,Agios_Pavlos,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,25.5
+22.96021635,40.62953651,295,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,3,10,SA(1.0),CR_LFINF-CDN-0_H3,3739
+22.95959207,40.6294802,296,Ahepa,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,4,None,PGA,CR_LDUAL-DUM_H4,3876
+22.9598432,40.6295197,297,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-10_H3,126
+22.96109865,40.62937147,298,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,3,10,SA(1.0),CR_LFINF-CDN-0_H3,5876
+22.96029858,40.6293853,299,Ahepa,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,4,None,SA(0.6),CR_LDUAL-DUL_H4,1992
+22.96050824,40.62932849,300,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,4,10,SA(1.0),CR_LFINF-CDL-10_H4,275
+22.96043611,40.62913153,301,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,5,10,SA(1.0),CR_LFINF-CDN-0_H5,2711
+22.96023114,40.6291081,302,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,5,10,SA(1.0),CR_LFINF-CDN-0_H5,3220
+22.95992376,40.62908055,303,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,5,10,SA(1.0),CR_LFINF-CDL-10_H5,2015
+22.95992542,40.6293325,304,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,4,10,SA(1.0),CR_LFINF-CDL-10_H4,927
+22.9613299,40.6290549,307,Ahepa,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,73.5
+22.96151353,40.62907513,308,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,65.2
+22.96004726,40.62892831,309,Ahepa,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,1,None,PGA,CR_LDUAL-DUM_H1,472
+22.96009593,40.62875706,310,Ahepa,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,1489
+22.96036799,40.62878472,311,Ahepa,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,2,None,PGA,CR_LDUAL-DUM_H2,1435
+22.96108595,40.62891036,312,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,2,10,SA(0.6),CR_LFINF-CDN-0_H2,1362
+22.96066239,40.6288232,313,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,3,10,SA(1.0),CR_LFINF-CDN-0_H3,543
+22.96061481,40.6291069,314,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,4,10,SA(1.0),CR_LFINF-CDN-0_H4,634.4
+22.96063378,40.62927971,315,Ahepa,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,4,None,SA(0.6),CR_LDUAL-DUL_H4,110
+22.96190494,40.62873577,316,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,3,10,SA(1.0),CR_LFINF-CDL-10_H3,1500
+22.96221802,40.62876457,317,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,10,SA(0.6),CR_LFINF-CDL-10_H2,2147
+22.96224015,40.62868777,318,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,420
+22.96194606,40.62865417,319,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,237
+22.96248998,40.62879817,320,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,50
+22.96188281,40.62893738,321,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,3,10,SA(1.0),CR_LFINF-CDL-10_H3,1514
+22.96217058,40.62895177,322,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,10,SA(0.6),CR_LFINF-CDL-10_H2,1641
+22.9621864,40.62886297,323,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,517
+22.96188281,40.62882697,324,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,3,10,SA(1.0),CR_LFINF-CDL-10_H3,468
+22.96187016,40.62911498,325,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,8,10,SA(1.0),CR_LFINF-CDL-10_H6,3582
+22.96208204,40.62912458,326,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,7,10,SA(1.0),CR_LFINF-CDL-10_H6,2956
+22.96187332,40.62902378,328,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,3,10,SA(1.0),CR_LFINF-CDL-10_H3,472
+22.9622781,40.62914617,329,Ahepa,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,10,SA(0.6),CR_LFINF-CDL-10_H1,156
+22.95857612,40.6372094,335,Agios_Dimitrios,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,2,None,SA(0.6),MUR-ADO_LWAL-DNO_H2,4892.4
+22.958297,40.63752728,336,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,5,SA(0.6),CR_LFINF-CDL-5_H2,428.9
+22.958444,40.63746711,337,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,1,5,SA(0.6),CR_LFINF-CDL-5_H1,36.3
+22.9582861,40.63737907,338,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,2,None,PGA,CR_LDUAL-DUL_H2,24.8
+22.95875583,40.63741781,339,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,5,SA(0.6),CR_LFINF-CDL-5_H2,1150.9
+22.95898572,40.63747629,340,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,3,None,PGA,CR_LDUAL-DUL_H3,146.2
+22.95911103,40.63712232,341,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,5,SA(0.6),CR_LFINF-CDL-5_H2,361.6
+22.95905625,40.63706852,342,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,2,None,PGA,CR_LDUAL-DUL_H2,17.2
+22.95905625,40.63715166,343,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,5,SA(0.6),CR_LFINF-CDL-5_H2,58.8
+22.95899825,40.63709542,344,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,1,5,SA(0.3),CR_LFINF-CDM-5_H1,117.1
+22.95925604,40.63721035,345,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,2,5,SA(0.6),CR_LFINF-CDL-5_H2,83.2
+22.95794676,40.63756735,346,Agios_Dimitrios,Thessalonikis,Precast,LFINF: infilled frame,CDL,2,10,SA(1.5),Precast-CDL,884.4
+22.95767534,40.6372583,347,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-5_H3,865.8
+22.95775961,40.63737906,348,Agios_Dimitrios,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-5_H3,1037.7
+22.957511,40.63705328,349,Agios_Dimitrios,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDL,1,None,PGA,MUR-ADO_LWAL-DNO_H1,332.4
+22.95839516,40.63782919,351,Agios_Dimitrios,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDL,1,None,PGA,MUR-ADO_LWAL-DNO_H1,75.2
+22.95865642,40.63772066,352,Agios_Dimitrios,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDL,1,None,PGA,MUR-ADO_LWAL-DNO_H1,517.6
+22.95930883,40.63710105,358,Agios_Dimitrios,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDL,1,None,PGA,MUR-ADO_LWAL-DNO_H1,30.7
+22.95511179,40.63340137,360,Gennimatas,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,4,10,SA(1.0),CR_LFINF-CDN-0_H4,1880.4
+22.95524545,40.63360524,361,Gennimatas,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDN,4,10,SA(1.0),CR_LFINF-CDN-0_H4,1177.6
+22.95506038,40.63352806,364,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDM,2,None,SA(0.3),MUR_LWAL-DNO_H2,150.4
+22.95544671,40.63380687,365,Gennimatas,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDM,3,None,PGA,CR_LDUAL-DUM_H3,1309.3
+22.95522993,40.63374486,366,Gennimatas,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,33.9
+22.95524558,40.63393436,367,Gennimatas,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDL,3,10,SA(1.0),CR_LFINF-CDL-10_H3,1334.4
+22.95504825,40.63399182,369,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDM,1,None,PGA,MUR_LWAL-DNO_H1,22
+22.95478518,40.63437879,372,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDM,1,None,PGA,MUR-ADO_LWAL-DNO_H1,30.2
+22.95489041,40.6345692,373,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDH,1,None,PGA,MUR-ADO_LWAL-DNO_H1,112.3
+22.95563101,40.63447093,377,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDN,3,None,SA(0.6),MUR-ADO_LWAL-DNO_H3,6168
+22.95550151,40.63427744,378,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDL,3,None,SA(0.6),MUR_LWAL-DNO_H3,1828.1
+22.95547318,40.63412695,379,Gennimatas,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,CDL,3,None,PGA,CR_LDUAL-DUL_H3,60.9
+22.95555007,40.63404096,380,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDL,2,None,SA(0.3),MUR_LWAL-DNO_H2,168.4
+22.95518179,40.634431,381,Gennimatas,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-10_H3,25.2
+22.95520608,40.63459991,382,Gennimatas,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,3,10,SA(1.0),CR_LFINF-CDM-10_H3,303.3
+22.95546719,40.63398846,383,Gennimatas,Thessalonikis,CR: reinforced concrete,LFINF: infilled frame,CDM,2,10,SA(0.6),CR_LFINF-CDM-10_H2,50.1
+22.95536391,40.6341116,384,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDL,1,None,PGA,MUR_LWAL-DNO_H1,27.9
+22.95502396,40.63360485,386,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,CDM,1,None,PGA,MUR_LWAL-DNO_H1,43.3
+22.95567203,40.63394871,1388,Gennimatas,Thessalonikis,S: steel,LFM: moment frame,DUM,1,10,PGA,S_LFM-DUH_H1,25.23
+22.95580004,40.63401235,1389,Gennimatas,Thessalonikis,CR: reinforced concrete,LDUAL: dual frame-wall system,DUM,1,None,PGA,CR_LDUAL-DUH_H1,137.52
+22.95531588,40.6341123,1391,Gennimatas,Thessalonikis,S: steel,LFM: moment frame,DUM,1,10,PGA,S_LFM-DUH_H1,7.02
+22.95504825,40.63399182,1392/369,Gennimatas,Thessalonikis,MUR: unreinforced masonry,LWAL: load bearing wall,DNO,1,None,PGA,MUR-CL99_LWAL-DNO_H1,158.13
